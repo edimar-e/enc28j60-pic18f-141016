@@ -1,0 +1,7 @@
+Para simular deve-se conectar o programa do pic ao virtual network
+que ao ser instalado vem com um ip 192.168.95.1
+fazer deste o gatway padrao no programa do pic e o ip do pic deve ser
+192.168.95.X
+no enc28j60 colocar o gatway 192.168.95.1
+acesso pelo ip 192.168.95.X
+wincap e virtualnetworkdrivers instalados
